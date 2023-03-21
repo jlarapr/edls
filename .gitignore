@@ -2,6 +2,7 @@ bin/
 .idea/
 certificates/
 
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
